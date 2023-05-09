@@ -189,28 +189,4 @@ The endpoints can be seen below.
     GET /apidocs
     **Gets the documentation of the API built in Flasgger
 
-## Web Dynamic
 
-This was the final iteration of the project and consisted in changing the Server Side Render for Client Based Render using JavaScript with jQuery, and the RESTful API from before.
-
-![Image result for jquery and javascript](https://miro.medium.com/max/600/1*8Whvj5G9f5DVmCBIzywYww.png)
-
-![](./readme_images/web_dynamic_diagram.png)
-
-# Challenges and Future Features
-
-This was a big project that helped in understanding how a Fullstack application works. Some of the most challenging parts had to do with the Object Relational Mapping for the API, and the Client Based Render.
-
-For future projects, this serves as a great base for beginning to understand other technologies such as React, NodeJS, and Mongo, among others.
-
-# About Myself
-
-🎯 I am a Fullstack developer in love with technology and keen to learn new things everyday. My strenghts reside in Python and JavaScript although I am not afraid to take on any other language.
-
-🎯 I have experience developing both back end and front end. I have used technologies such as Bootstrap, SASS, React, Flask, Django, Express, SQL, MongoDB, AWS, among others.
-
-🎯 I also studied Sound Engineering some years ago, and I love music, videogames, and audiovisual media.
-
-🔹 [LinkedIn](https://www.linkedin.com/in/jhoan-stiven-zamora-caicedo/)
-
-🔹 [Twitter](https://twitter.com/JhoanZamora10)
